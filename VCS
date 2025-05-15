@@ -1,1 +1,4 @@
-VCS
+mtcars
+summary(mtcars)
+str(mtcars)
+mean(mtcars$mpg)
